@@ -3,9 +3,10 @@ During my final year of Diploma Engineering in Electronics and Telecommunication
 
  - RFID.c File Contains The Primary Arduino Code
  - RFID.py File Contains The Secondary Python Code For Realtime Data
- - 
+ -  OUTPUT 1 & 2 Contain Output Of Project
  - CAPSTONE.csv File Contains Output Realtime Data
- - REPORT.pdf Contains The Final Capstone Report
+ - REPORT.pdf Contains The Final Capstone Report (Includes: Block Diagram,Circuit Diagram,Methodology,Output And Many More.....)
+ - For Demonstration Of The Project Click This Link  > https://www.linkedin.com/posts/mohammad-affan-shaikh-bbb59928a_rfidtechnology-realtimedatamanagement-arduino-activity-7187368911850356737-73J3?utm_source=share&utm_medium=member_android
 
 
 
