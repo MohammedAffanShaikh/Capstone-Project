@@ -1,6 +1,14 @@
 # Capstone-Project
 During my final year of Diploma Engineering in Electronics and Telecommunication at Saboo Siddik Polytechnic, I developed a cutting-edge Radio Frequency Identification (RFID) Attendance System. This project aimed to streamline attendance management processes in educational institutions.
 
+ - RFID.c File Contains The Primary Arduino Code
+ - RFID.py File Contains The Secondary Python Code For Realtime Data
+ - 
+ - CAPSTONE.csv File Contains Output Realtime Data
+ - REPORT.pdf Contains The Final Capstone Report
+
+
+
 Key Technologies Used:
 - Arduino Uno: Utilized as the main microcontroller for system control and data processing.
 - I2C and LCD: Integrated for displaying real-time student information such as Name, Branch, UID Number, and attendance status ("Present") on the LCD screen.
